@@ -1,5 +1,5 @@
 ---
-name: Quan Hieu
-institution/company: n/a
+Name: Quan Hieu
+institution/company: Freelance.
 github: quanhieu
 ---
